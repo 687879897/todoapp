@@ -1,0 +1,16 @@
+{
+  "todolist": "Todolist",
+  "delete": "delete",
+  "addnewtask": "Add new task",
+  "enteryourtitel": "Enter your task",
+  "slelectdata": "Slelect data",
+  "language": "Language",
+  "mode": "Mode",
+  "setting": "Setting",
+  "edittask":"Edit task",
+  "descraption":"descraption",
+  "savechange":"save change",
+  "pleaseenterhetitle":"Please enter the title",
+  "pleaseenterthetask":"Please enter the task",
+  "add":"Add"
+ }

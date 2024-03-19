@@ -1,0 +1,16 @@
+{
+  "todolist": "القائمه",
+  "delete": "حذف",
+  "addnewtask": "اضافة مهمة جديده",
+  "enteryourtitel": "اضف العنوان",
+  "slelectdata": "اختر تاريخ",
+  "language": "اللغه",
+  "mode": "الوضع",
+  "setting": "الاعدادات",
+  "edittask":"تعديل المهمة",
+  "descraption":"موضوع المهمه",
+  "savechange":"حفط",
+  "pleaseenterhetitle":"من فضلك ادخل العنوان",
+  "pleaseenterthetask":"من فضلك ادخل الموضوع",
+  "add":"اضافه"
+ }
